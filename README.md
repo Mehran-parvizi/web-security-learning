@@ -25,7 +25,7 @@ This repository documents my hands-on learning journey in Web Application Securi
 | # | Lab | Vulnerability | Status |
 |---|-----|---------------|--------|
 | 1 | [Unprotected Admin Functionality](portswigger-labs/01-unprotected-admin-functionality.md) | Broken Access Control | Solved |
-| 2 | Username Enumeration via Different Responses | Authentication / Username Enumeration | Solved |
+| 2 | [Username Enumeration via Different Responses](portswigger-labs/02-username-enumeration.md) | Authentication / Username Enumeration | Solved |
 | 3 | [User ID Controlled by Request Parameter](portswigger-labs/03-user-id-controlled-by-parameter.md) | IDOR / Horizontal Privilege Escalation | Solved |
 
 ## Current Learning Topics
