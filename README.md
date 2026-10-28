@@ -28,6 +28,7 @@ This repository documents my hands-on learning journey in Web Application Securi
 | 2 | [Username Enumeration via Different Responses](portswigger-labs/02-username-enumeration.md) | Authentication / Username Enumeration | Solved |
 | 3 | [User ID Controlled by Request Parameter](portswigger-labs/03-user-id-controlled-by-parameter.md) | IDOR / Horizontal Privilege Escalation | Solved |
 | 4 | [Username Enumeration via Subtly Different Responses](portswigger-labs/04-username-enumeration-subtle-responses.md) | Authentication / Username Enumeration | Solved |
+| 5 | [Username Enumeration via Response Timing](portswigger-labs/05-username-enumeration-response-timing.md) | Authentication / Timing Side Channel | Solved |
 ## Current Learning Topics
 
 - HTTP Fundamentals
